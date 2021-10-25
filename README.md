@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Periyot/Periyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Back-end and IOS Developer working.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Last article written [medium.com/@Periyot](https://medium.com/Periyot)
+- 🇺🇸 Planing the 
+- 🚀 What about this?
+
+##### BIO
+
+- 🏢 I am currently working at **Open source projects**
+- ⚙️ I use daily: `.C`, `.C++`, `.CSharp`, `.Swift`, `.Python`
+- 🌍 I'm mostly active in the **GitHub Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- ⚡️ Fun fact: I'm a big Science fan
