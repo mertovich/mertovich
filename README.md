@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Back-end and IOS Developer working.
+#### I'm a Back-end & IOS Developer working.
 
 ##### NOW
 
