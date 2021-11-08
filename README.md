@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### I'm a Back-end & IOS Developer working.
-
 ##### NOW
 
 - ✨ Last article written [medium.com/@Periyot](https://medium.com/Periyot)
