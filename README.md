@@ -2,7 +2,6 @@
 
 ##### NOW
 
-- ✨ Last article written?
 - 🇺🇸 Planing the 
 - 🚀 What about this?
 
