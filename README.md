@@ -2,7 +2,7 @@
 
 ##### NOW
 
-- ✨ Last article written [medium.com/@Periyot](https://medium.com/Periyot)
+- ✨ Last article written?
 - 🇺🇸 Planing the 
 - 🚀 What about this?
 
