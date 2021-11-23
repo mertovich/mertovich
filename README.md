@@ -2,7 +2,7 @@
 
 ##### NOW
 
-- 🇺🇸 Planing the 
+- 🇺🇸 Planing to 
 - 🚀 What about this?
 
 ##### BIO
