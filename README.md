@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-##### NOW
-
-- 🇺🇸 Planing to 
-- 🚀 What about this?
-
 ##### BIO
 
 - 🏢 I am currently working at **Open source projects**
