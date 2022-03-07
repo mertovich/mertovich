@@ -11,5 +11,5 @@
 - ⚡️ Fun fact: I'm a big Science fan
 
 <img height='200px'
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Periyot&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Periyot&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
