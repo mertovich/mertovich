@@ -4,7 +4,7 @@
 
 - 🛠 Develop products & experiences utilizing the latest in web technologies
 - 🌎 Contribute to various open source projects & initiatives
-- ⚙️ I use daily: `.C`, `.C++`, `.CSharp`, `.Swift`, `.Python`,`.JavaScript`
+- ⚙️ I use daily: `.C`, `.C++`, `.CSharp`, `.Swift`, `.Python`,`.JavaScript`,`GO`
 - 🌍 I'm mostly active in the **GitHub Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
