@@ -2,6 +2,7 @@
 
 I am a Software Developer passionate about developing ideas in open source communities. Currently learning React, TypeScript, Go, React Native and running open source projects. I want to work with technologies like React, React Native, Go, Node.Js. As a developer, most of my time is spent creating projects and learning new things every day.
 
+contact: salut@outlook.at
 
 <hr></hr>
 
