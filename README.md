@@ -6,6 +6,11 @@ contact: salut@outlook.at
 
 <hr></hr>
 
+<a href='https://www.buymeacoffee.com/mertovich' >
+<img height='50px' src='https://aws1.discourse-cdn.com/business4/uploads/ghost2/optimized/2X/3/34fcbef71d7ef8103a83f6e7a615d9273d6dea37_2_690x368.png'
+</a>
+
+
 <a href='https://play.google.com/store/apps/dev?id=4780021152747475031&gl=TR'> 
 <img src='https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0' />
 </a>
