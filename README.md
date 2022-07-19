@@ -7,7 +7,7 @@ contact: salut@outlook.at
 <hr></hr>
 
 <a href='https://www.buymeacoffee.com/mertovich' >
-<img height='50px' src='https://aws1.discourse-cdn.com/business4/uploads/ghost2/optimized/2X/3/34fcbef71d7ef8103a83f6e7a615d9273d6dea37_2_690x368.png'
+<img height='50px' src='https://salmonweird.files.wordpress.com/2021/12/blue-button.png?w=640'
 </a>
 
 
